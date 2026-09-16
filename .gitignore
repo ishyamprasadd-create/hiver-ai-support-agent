@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# VS Code
+.vscode/
+.ipynb_checkpoints/
+
+# Large Twitter dataset
+data/raw/twcs/twcs.csv
+data/raw/twcs.zip
+data/raw/twcs/*.zip
+
+# Temporary files
+*.log
+
+data/raw/
